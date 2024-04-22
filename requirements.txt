@@ -1,0 +1,8 @@
+datasets==2.17.0
+requests==2.31.0
+pillow==10.2.0
+openai==0.28.0
+gradio-client==0.10.0
+diffusers==0.26.3
+torch==1.13.1+cu116
+flask==3.0.2
